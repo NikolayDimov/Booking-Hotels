@@ -10,6 +10,8 @@ HotelBooker is a dynamic, user-friendly web application designed for booking hot
 -   **Responsive Design**: Crafted with HTML5 and SASS, the UI is fully responsive and optimized for all devices.
 -   **User Authentication**: Secure login and registration system for managing bookings and reviews.
 
+![alt text](0CEA7F2A-1C0A-4B2C-B2F5-6CD74BDDB850_1_201_a.jpeg)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
