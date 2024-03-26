@@ -1,6 +1,6 @@
-# HotelBooker
+# Booking Hotels
 
-HotelBooker is a dynamic, user-friendly web application designed for booking hotels, allowing users to leave comments and rate their experiences. Built with HTML5 and SASS, it aims to provide an intuitive and engaging platform for travelers to find and book their ideal hotel stay, while also sharing their experiences through ratings and reviews.
+Booking Hotels is a dynamic, user-friendly web application designed for booking hotels, allowing users to leave comments and rate their experiences. Built with HTML5 and SASS, it aims to provide an intuitive and engaging platform for travelers to find and book their ideal hotel stay, while also sharing their experiences through ratings and reviews.
 
 ## Features
 
@@ -33,5 +33,5 @@ cd HotelBooker
 
 ```
 
-npm install
-npm tun start
+npm install,
+npm run start
